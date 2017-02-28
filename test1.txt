@@ -1,9 +1,4 @@
-salut
-edgard
-moche
-nul
-zéro
-là bas
-tu
-seras
-mieux
+
+test.txt denis ligne 6 cette ligne contient un bug (regis)
+test1.txt denis ligne 7
+
