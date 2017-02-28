@@ -3,7 +3,7 @@ test1.txt denis ligne 2
 test1.txt denis ligne 3
 test1.txt denis ligne 4
 test1.txt denis ligne 5
-test1.txt denis ligne 6
+test.txt denis ligne 6 cette ligne contient un bug (regis)
 test1.txt denis ligne 7
 test1.txt denis ligne 8
 test1.txt denis ligne 9
