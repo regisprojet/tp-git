@@ -1,0 +1,6 @@
+8*Sécurité*Il est nécessaire que chaque membre de l'équipe doit déclaré sur l'outils pour pouvoir saisir sa satisfaction.
+9*Sécurité*Il esy nécessaire d'être authentifié pour pouvoir saisir sa satisfaction.
+10*Rôle*Un rôle d'administrateur doit exister afin de permettre la déclaration d
+8*Sécurité*Il est nécessaire que chaque membre de l'équipe doit déclaré sur l'outils pour pouvoir saisir sa satisfaction.
+9*Sécurité*Il esy nécessaire d'être authentifié pour pouvoir saisir sa satisfaction.
+10*Rôle*Un rôle d'administrateur doit exister afin de permettre la déclaration d
