@@ -1,11 +1,9 @@
-test1.txt denis ligne 1
-test1.txt denis ligne 2
-test1.txt denis ligne 3
-test1.txt denis ligne 4
-test1.txt denis ligne 5
-test1.txt denis ligne 6
-test1.txt denis ligne 7
-test1.txt denis ligne 8
-test1.txt denis ligne 9
-test1.txt denis ligne 10
-test1.txt denis ligne 11
+salut
+edgard
+moche
+nul
+zéro
+là bas
+tu
+seras
+mieux
